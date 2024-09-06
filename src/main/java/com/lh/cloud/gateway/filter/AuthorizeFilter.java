@@ -4,7 +4,7 @@ import com.alibaba.cloud.commons.lang.StringUtils;
 import com.alibaba.fastjson.JSON;
 import com.lh.cloud.common.param.response.Result;
 import com.lh.cloud.common.param.response.ResultCode;
-import com.lh.cloud.framework.redis.util.TokenService;
+import com.lh.cloud.common.util.TokenService;
 import com.lh.cloud.gateway.config.FilterProperties;
 import com.lh.cloud.gateway.util.AllowPathUtil;
 import lombok.AllArgsConstructor;
